@@ -1,6 +1,6 @@
 # SwiftUI-Health-App
 
-Here is the Home page with some of our doctors
+<font size="15">Here is the Home page with some of our doctors</font>
 <br>
 <img width="329" alt="Screenshot 2023-01-08 at 13 34 02" src="https://user-images.githubusercontent.com/56759602/213413511-964b2009-592a-4e17-bfc2-150fb61f27e8.png">
 
